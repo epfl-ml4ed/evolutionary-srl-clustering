@@ -1,0 +1,14 @@
+mysql.connector
+psycopg2-binary
+fuzzywuzzy
+python-Levenshtein
+pandas
+plotly
+seaborn==0.11.0
+linearmodels
+hdbscan
+ptitprince
+gender-guesser
+pydot
+tslearn
+kmodes
